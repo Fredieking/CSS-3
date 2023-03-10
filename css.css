@@ -4,7 +4,7 @@ background-color: blue;
 [class*="col-"] {width: 100%;}
 @media only screen and (min-width: 768px)
 {body{background-color: red;}
-[class*="col-"] { {float: left;padding: 15px;}
+{[class*="col-"] { {float: left;padding: 15px;}
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
@@ -16,7 +16,7 @@ background-color: blue;
 .col-9 {width: 75%;}
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
- .col-12 {width: 100%;}}
+ .col-12 {width: 100%;}}}
 
 header{
 width:100%;
