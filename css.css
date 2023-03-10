@@ -28,7 +28,7 @@ background-image: url("img/alkmaar.jpg");
 /*background-size: cover;*/
 background-size: contain;
 background-repeat: no-repeat;
-background-position: left;
+background-position: center;
 }
  
 section{
