@@ -56,6 +56,7 @@ display: inline-block;
 
 h1{
     color:Orange;
+    font-family: sans-serif;
     margin-right:1px;
     margin-left:0px;
 }
