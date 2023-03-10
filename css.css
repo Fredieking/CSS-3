@@ -23,7 +23,7 @@ width:100%;
 height:300px;
 overflow-y: hidden ! important;
 overflow-x: hidden ! important;
-background-color: orange;
+background-color: green;
 background-image: url("img/alkmaar.jpg");
 /*background-size: cover;*/
 background-size: contain;
